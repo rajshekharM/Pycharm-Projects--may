@@ -17,7 +17,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 Js2Py==0.70
 MarkupSafe==1.1.1
-numpy==1.18.4
+numpy==1.22.0
 packaging==20.3
 pipwin==0.5.0
 protobuf==3.11.3
